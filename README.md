@@ -1,4 +1,3 @@
-<!-- 
 ## :man_technologist:풀스택(FullStack) 개발자 "정수종(JEONGSUJONG)" 입니다. :facepunch: 
 
 - 🦜 해적처럼 용감하게 도전하며, 끝없는 항해, 지식이란 보물을 찾아 떠나며 성장할 것을 약속드립니다.
@@ -30,5 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 -->
